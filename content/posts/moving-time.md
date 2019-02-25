@@ -1,7 +1,7 @@
 ---
 title: "I'm moving to Japan"
 description: "Yes"
-banner: "/img/1/moving.jpg"
+banner: "img/1/moving.jpg"
 date: 2019-02-24T16:57:10-08:00
 draft: false
 ---

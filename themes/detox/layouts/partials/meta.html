@@ -26,10 +26,10 @@
         {{ if isset .Params "banner" }}
         <meta property="og:image" content="{{ .Param "banner" }}" />
         {{ else }}
-        <meta property="og:image" content="/default_banner.jpg" />
+        <meta property="og:image" content="/img/default_banner.jpg" />
         {{ end }}
     {{ else }}
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="/default_banner.jpg" />
+        <meta property="og:image" content="/img/default_banner.jpg" />
     {{ end }}
         {{ .Hugo.Generator }}

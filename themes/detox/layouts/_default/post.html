@@ -1,14 +1,4 @@
 <article class="{{ .Type }}">
-  <head>
-    <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:title" content="{{ .Title }}" />
-    {{ if isset .Params "description" }}
-    <meta property="og:description" content="{{ .Param "description" }}" />
-    {{ end }}
-    {{ if isset .Params "banner" }}
-    <meta property="og:image" content="{{ .Param "banner" }}" />
-    {{ end }}
-  </head>
   <header class="post-header">
     <img class="p-post-banner" src="{{ .Param "banner" }}"></img>
     <h3 class="p-post-title">{{ .Title }}</h3>

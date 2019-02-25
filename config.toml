@@ -1,0 +1,10 @@
+baseURL = "https://japan.nathanwillson.com/"
+languageCode = "en-us"
+title = "Japan and Beyond"
+theme = "detox"
+
+[params]
+  description = "My travels in Japan"
+  instagram     = "nahtanw"
+  github        = "github"
+  palms         = "nathan"

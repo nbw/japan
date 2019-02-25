@@ -1,0 +1,36 @@
+    <footer id="site-footer">
+        <div class="container">
+          <ul>
+            <li class="title">Site</li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+          </ul>
+          <ul>
+            <li class="title">Social</li>
+            {{ with .Site.Params.instagram }}
+            <li>
+              <a href="https://www.instagram.com/{{ . }}/" title="Instagram" target="_blank">Instagram</a>
+            </li>
+            {{ end }}
+            {{ with .Site.Params.twitter_name }}
+            <li>
+              <a href="https://www.twitter.com/{{ . }}" title="Twitter" target="_blank">Twitter</a>
+            </li>
+            {{ end }}
+            {{ with .Site.Params.palms }}
+            <li>
+              <a href="https://www.palms.co/{{ . }}" title="Palms" target="_blank">Palms</a>
+            </li>
+            {{ end }}
+          </ul>
+          <ul>
+            <li class="title">Contact</li>
+            <li><a href="/mailing_list">Mailing List</a></li>
+          </ul>
+        </div>
+    </footer>
+
+    <script type="text/javascript" src="{{ .Site.BaseURL }}js/fittext.js"></script>
+    <script type="text/javascript">
+      $(".heading").fitText();
+    </script>

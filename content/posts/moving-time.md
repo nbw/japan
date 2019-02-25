@@ -3,7 +3,7 @@ title: "I'm moving to Japan"
 description: "Yes"
 banner: "/img/1/moving.jpg"
 date: 2019-02-24T16:57:10-08:00
-draft: true
+draft: false
 ---
 
 At the end of march, I'll be moving to Japan with the goal of connecting with my ancestry 🎉.

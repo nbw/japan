@@ -1,6 +1,6 @@
 <article class="{{ .Type }}">
   <header class="post-header">
-    <img class="p-post-banner" src="{{ .Param "banner" }}"></img>
+    <img class="p-post-banner" src="{{ $.Site.BaseURL }}{{ .Param "banner" }}"></img>
     <h3 class="p-post-title">{{ .Title }}</h3>
   </header>
 

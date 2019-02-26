@@ -30,8 +30,9 @@
   display: inline-block;
   vertical-align: top;
   list-style-type: none;
-  margin-left: 1em;
-  margin-right: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 0;
 }
 
 #site-footer li {
@@ -55,4 +56,10 @@
 
 .p-post-banner {
   margin-bottom: 3em;
+}
+
+@media only screen and (max-width: 600px) {
+  #site-footer ul {
+    margin: 1em;
+  }
 }

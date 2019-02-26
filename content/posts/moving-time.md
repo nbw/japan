@@ -6,7 +6,7 @@ date: 2019-02-24T16:57:10-08:00
 draft: false
 ---
 
-At the end of march, I'll be moving to Japan with the goal of connecting with my ancestry 🎉.  It's something that's been in the works for years, but really my whole life.
+At the beginning of April, I'll be moving to Japan with the goal of connecting with my ancestry 🎉.  It's something that's been in the works for years, but really my whole life.
 
 I'm really excited and scared to finally say it, but it's time for a new adventure.
 

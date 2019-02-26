@@ -27,5 +27,3 @@ I’ve been rock climbing a lot recently (understatement) and as an analogy it f
 People keep asking me “when are you going?” and I have some dates in mind, but nothing actually concrete. When I look back at this all then perhaps I’ll wonder why I worried so much.
 
 I have that feeling when you stare off into the distance in deep thought. Not really paying attention to what I’m looking at. Maybe just gazing at the wall. And then all the background noise that's been around me the whole time suddenly comes to the forefront of my mind. And I realize where I am and that the city is waking up.
-
-

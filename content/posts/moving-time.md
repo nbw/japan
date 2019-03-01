@@ -2,7 +2,7 @@
 title: "I'm moving to Japan"
 description: "It's finally happening"
 banner: "img/1/moving.jpg"
-date: 2019-02-24T16:57:10-08:00
+date: 2019-03-01T00:57:10-08:00
 draft: false
 ---
 

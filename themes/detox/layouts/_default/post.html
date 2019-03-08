@@ -1,6 +1,8 @@
 <article class="{{ .Type }}">
   <header class="post-header">
+    {{ if isset .Params "banner" }}
     <img class="p-post-banner" src="{{ $.Site.BaseURL }}{{ .Param "banner" }}"></img>
+    {{ end }}
     <h3 class="p-post-title">{{ .Title }}</h3>
   </header>
 
@@ -37,6 +39,12 @@
 
 <hr>
 
+<p>
+Consider joining the <a href="/mailing_list">mailing list</a>.
+</p>
+
+<p>
 Send me an email at <a href="mailto:contact@nathanwillson.com">contact@nathanwillson.com</a> or leave a comment below.
 {{ partial "disqus.html" . }}
+</p>
 </article>

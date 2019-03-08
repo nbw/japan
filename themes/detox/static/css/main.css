@@ -63,3 +63,8 @@
     margin: 1em;
   }
 }
+
+.image-descrip {
+  margin-top: -15px;
+  text-align: center;
+}

@@ -5,6 +5,8 @@ description: ""
 
 If you'd like to receive an email about my happenings in Japan then please sign up below! I promise not to spam your inbox with messages. Once I get into a rhythm, I'm hoping to send out a monthly digest if there's anything that I've posted.
 
+
+<div style='text-align:center; font-size: 1.6em;'><b>👉 When you sign up, MailChimp will send you a confimation email. Make sure to confirm it! Please and thank you. 👈</b></div>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">

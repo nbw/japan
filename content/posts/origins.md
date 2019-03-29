@@ -72,7 +72,7 @@ It left from Vancouver, Washington. My mother who was hardly able to drive decid
 
 It was pretty brutal. I was not entering through a proper destination for tourists. [The government] kept me on board for 3 days and sat me down and looked me in the eyes,  grilling me: Why did you do this?  Would you promise to not do it again? Telling me they’d send me back because it wasn’t appropriate. Then after three days they said to heck with it and said you just sign a statement that you’ll never do it again and get out of here. 
 
-When I got there it was a national holiday and the banks were closed.  I couldn’t get any money to do anything and I was kind of worrying. I finally found somebody who could exchange a bit of money for me and then I went to buy a ticket to Tokyo. But it was a national holiday. Standing room only. Like a 7-8 hour ride back then. I ended up getting off in the middle of Tokyo."
+When I got there it was a national holiday and the banks were closed.  I couldn’t get any money to do anything and I was kind of worried. I finally found somebody who could exchange a bit of money for me and then I went to buy a ticket to Tokyo. But it was a national holiday. Standing room only. Like a 7-8 hour ride back then. I ended up getting off in the middle of Tokyo."
 
 #### Why did you think entering Japan like that would work? Was that just the way things were back then?
 

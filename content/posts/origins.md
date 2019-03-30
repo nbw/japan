@@ -6,12 +6,6 @@ date: 2019-03-29T06:57:10-08:00
 draft: false
 ---
 
-<style>
-  h1,h2,h3,h4 {
-    margin-top: 1.5em;
-  }
-</style>
-
 
 
 
@@ -21,13 +15,21 @@ Thanks dad.
 
 ---
 
-For those of you who don't know, my father is a Canadian from Manitoba. He's from a small town called Flin Flon (it's a real place!). 
+
+
+For those of you who don't know, my father is a Canadian from Manitoba. He's from a small town called Flin Flon (it's a real place!)
 
 ![Flin Flon](/img/4/flin_flon.png)
 
 When he was 24 he went on an adventure to Japan.  My parents would eventually meet and thus my siblings and I exist! 
 
 Good work. 
+
+<style>
+  h1,h2,h3,h4 {
+    margin-top: 1.5em;
+  }
+</style>
 
 ### Why did you decide to go to Japan? Or what were things like leading up to that decision?
 

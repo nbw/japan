@@ -9,7 +9,7 @@ draft: false
 
 I've been in Tokyo for just under a month now. Seems like much longer. There have been so many logistical details to overcome since arriving here. Paperwork, government papers, bank account, cellphone plan, language school entrance exam, etc.. And that was the just first week.
 
-I've since had some time to settle in and find my footing again. I always find arriving in Tokyo to be super overwhelming. The contrast of my lifestyle here compared to Canada is quite drastic. This time I was so busy for the first week that it didn't really hit me until the second weekend I was here.  Now I'm starting to get a rhythm. 調子が良くなてきて、うまく行くんです。
+I've since had some time to settle in and find my footing again. I always find arriving in Tokyo to be super overwhelming. The contrast of my lifestyle here compared to Canada is quite drastic. This time I was so busy for the first week that it didn't really hit me until the second weekend I was here.  Now I'm starting to get a rhythm. 調子が良くなってきて、うまくいってます。
 
 It's Golden week in Japan, which is to say a full one week holiday for everyone. It's due to unique circumstances that people get the whole week off (the emporer is abdicating). Anyways, I have a lot of free time finally.
 

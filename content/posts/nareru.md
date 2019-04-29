@@ -11,7 +11,7 @@ I've been in Tokyo for just under a month now. Seems like much longer. There hav
 
 I've since had some time to settle in and find my footing again. I always find arriving in Tokyo to be super overwhelming. The contrast of my lifestyle here compared to Canada is quite drastic. This time I was so busy for the first week that it didn't really hit me until the second weekend I was here.  Now I'm starting to get a rhythm. 調子が良くなってきて、うまくいってます。
 
-It's Golden week in Japan, which is to say a full one week holiday for everyone. It's due to unique circumstances that people get the whole week off (the emporer is abdicating). Anyways, I have a lot of free time finally.
+It's Golden week in Japan, which is to say a full one week holiday for everyone. It's due to unique circumstances that people get the whole week off (the emperor is abdicating). Anyways, I have a lot of free time finally.
 
 ## My Daily Routine
 
@@ -41,7 +41,7 @@ A normal day for me is as follows:
 
 10. **Dinner:** I try to get home by 5:30ish and my homestay family makes me dinner.
 
-11. **Evenings:**  Play with the kids a little bit, but mostly just study more. I start to hammer on the script memorization (it requires me to speak outloud so I don't really do that at cafes or libraries), etc..
+11. **Evenings:**  Play with the kids a little bit, but mostly just study more. I start to hammer on the script memorization (it requires me to speak out loud so I don't really do that at cafes or libraries), etc..
 
 12. **Sleep.**
 
@@ -93,7 +93,7 @@ There's variance within this schedule. Meeting the odd friend on a weekday or wh
 
 ![vine_house](/img/5/faves/vine_house.jpg)
 ![vine_house_2](/img/5/faves/vine_house_2.jpg)
-<div class="image-descrip">When a house is abandonned in the city.</div>
+<div class="image-descrip">When a house is abandoned in the city.</div>
 
 ![kogoro](/img/5/faves/kogoro.jpg)
 <div class="image-descrip">Going to Family Mart for some food.</div>
@@ -160,6 +160,6 @@ I've had a decent amount of free time here. Or at least I'm studying at my own v
 
 Thanks for reading my blog. There's a lot going and I'm sorry that I haven't been in contact with everyone.
 
-My sister asked me today if I am more spiritually fulfilled here. I would say yes, but I will be really fulfilled when I have a better grasp on the language and don't feel embarassed all the time. I am super grateful to be working towards that goal. In many ways I don't know what else I would want to be doing right now.
+My sister asked me today if I am more spiritually fulfilled here. I would say yes, but I will be really fulfilled when I have a better grasp on the language and don't feel embarrassed all the time. I am super grateful to be working towards that goal. In many ways I don't know what else I would want to be doing right now.
 
-Oh, thank you to my parents and family for helping me (especially my mom). The logistical bureacratic details of getting settled here would be impossible without her.
+Oh, thank you to my parents and family for helping me (especially my mom). The logistical bureaucratic details of getting settled here would be impossible without her.

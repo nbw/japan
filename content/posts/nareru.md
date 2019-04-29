@@ -1,5 +1,5 @@
 ---
-title: "Settling in Tokyo"
+title: "Progress"
 description: "My first post since being in Japan"
 banner: "img/5/banner.jpg"
 date: 2019-04-27T06:57:10-08:00

@@ -151,6 +151,8 @@ People often quote Tokyo as being the most densely populated place in the world 
 
 ![people](https://c-lj.gnst.jp/public/article/detail/a/00/02/a0002894/img/en/a0002894_parts_5c2edf65dfac3.jpg)
 
+----
+
 ## Finally, so where I live?
 
 I think I live in Shinagawa— nope I just checked and I'm in Ota city.  So the bottom special ward. That's wild. 😂

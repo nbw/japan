@@ -12,7 +12,7 @@ So recently I attempted to update my Facebook information to say that I was in J
 
 ![tokyo](/img/6/facebook.png)
 
-rokyo isn't on the list, which confused me. **Tokyo is a city right?**
+Tokyo isn't on the list, which confused me. **Tokyo is a city right?**
 
 
 This is all to say that I don't really know a lot about Japanese geography. So strap in and hold onto your butts. It's time for a geography lesson.
@@ -58,7 +58,7 @@ That's actually not totally true. I mean there are prefectures (県), but there 
 
 If we use the work prefecture to describe all of them, that's 47 prefectures.
 
-<img style="width:100%" src="https://goinjapanesque.com/wpos/wp-content/uploads/2015/07/Japan-map-en.png.pagespeed.ce.NF34oLPTLN.png"></img>
+<img style="width:100%" src="/img/6/prefectures.png"></img>
 
 
 Some more facts to confuse you:

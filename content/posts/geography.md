@@ -25,7 +25,7 @@ I think it's easiest to start big and work our way down.
 
 Japan is a bunch islands as you can see from this super high quality photo:
 
-<img style="min-width: 700px" src="https://fikklefame.com/images/152/japan-island-names.jpg"></img>
+<img style="width: 100%" src="https://fikklefame.com/images/152/japan-island-names.jpg"></img>
 
 This is super simplified and Okinawa is way farther south. As far as I can tell, knowing the names of these areas isn't super important because they're more often broken down further into regions and prefectures and other things.
 

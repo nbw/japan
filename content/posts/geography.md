@@ -43,7 +43,7 @@ These regions are mostly official culturally.  [Wiki](https://en.wikipedia.org/w
 
 I guess if there was a North American analogy it would be the west coast, east coast, mid-west, prairies, etc..
 
-So saying that there are 9 regions is a bit hand waving, because a lot of these regions are subdivided further into smaller clumps. Read the wiki if you dig.
+So saying that there are 9 regions requires a bit hand waving, because a lot of these regions are subdivided further into smaller clumps. Read the wiki if you dig.
 
 ----
 
@@ -108,7 +108,7 @@ Anyways yes, somehow <u>Tokyo is the capital of Japan</u>.
 
 ## The big tuna 🐟: Tokyo
 
-It's first worth mentioning that there used to be a Tokyo city, that was made up of 23 *special wards*. In 1943, Tokyo city merged with the rest of Tokyo Prefecture and became Tokyo Metropolis.
+It's first worth mentioning that there used to be a Tokyo city that was made up of 23 *special wards*. In 1943, Tokyo city merged with the rest of Tokyo Prefecture and became Tokyo Metropolis.
 
 Here are all the wards in Tokyo:
 
@@ -118,7 +118,7 @@ Now the thing is… the *special wards* are special. They don't care about the w
 
 ![special wards](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Tokyo_special_wards_map.svg/800px-Tokyo_special_wards_map.svg.png)
 
-It's sort a deal of street cred. The special wards, as mentioned earlier, were the wards that made up Tokyo City when it was a city. They're the most densely populated areas too.
+It's sort of an issue of street cred. The special wards, as mentioned earlier, were the wards that made up Tokyo City when it was a city. They're the most densely populated areas too.
 
 ----
 
@@ -140,7 +140,7 @@ But it's also not.
 
 ## What's the population of Tokyo
 
-That's a good question. I think finally understand the statistics now.
+That's a good question. I think I finally understand the statistics.
 
 * The entire Tokyo Metropolis is 13 million
 * The [Greater Tokyo area](https://en.wikipedia.org/wiki/Greater_Tokyo_Area) is 38 million, which is actually the entire Kanto region. That means [Tokyo Metropolis](https://en.wikipedia.org/wiki/Tokyo), [Yokohama](https://en.wikipedia.org/wiki/Yokohama), [Kawasaki](https://en.wikipedia.org/wiki/Kawasaki,_Kanagawa), [Saitama](https://en.wikipedia.org/wiki/Saitama,_Saitama), [Chiba](https://en.wikipedia.org/wiki/Chiba,_Chiba), and [Sagamihara](https://en.wikipedia.org/wiki/Sagamihara,_Kanagawa).

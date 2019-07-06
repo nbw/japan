@@ -136,7 +136,6 @@ I was able to enjoy very healthy and wonderfully cooked food, mainly by Yumi who
 ![4](/img/9/food/4.jpg) 
 ![5](/img/9/food/5.jpg) 
 ![7](/img/9/food/7.jpg) 
-![7](/img/9/food/7.jpg) 
 ![8](/img/9/food/8.jpg) 
 ![1](/img/9/food/1.jpg) 
 ![9](/img/9/food/9.jpg) 

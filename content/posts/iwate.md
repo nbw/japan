@@ -129,7 +129,7 @@ Painting the deck
 
 # Food
 
-I was able to enjoy very healthy and wonderfully cooked food, mainly by Yumi who is a wonderful chef. With the exception of one dinner (burgers!) and one breakfast (aka, using the lefts from burgers).  We also ate a lot of ramen at local restaurants. This region is notably famous for its noodles.
+I was able to enjoy very healthy and wonderfully cooked food, mainly by Yumi who is a wonderful chef. With the exception of one dinner that I cooked (burgers!) and one breakfast (aka, using the lefts from burgers).  We also ate a lot of ramen at local restaurants. This region is notably famous for its noodles.
 
 ![2](/img/9/food/2.jpg) 
 ![3](/img/9/food/3.jpg) 

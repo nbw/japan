@@ -2,7 +2,7 @@
 title: "Volunteering in Iwate"
 description: "Volunteering in Iwate prefecture at a Eco-farm"
 banner: "img/9/banner.jpg"
-date: 2019-07-01T06:57:10-08:00
+date: 2019-07-05T06:57:10-08:00
 draft: false
 
 
@@ -15,7 +15,7 @@ I  recently spent two weeks volunteering at a farm in the prefecture of Iwate, w
 
 ![1](/img/9/iwate.png)
 
-> The volunteering I did was called **WWOOFing**, which stands for [World Wide Opportunities on Organic Farms](https://wwoof.net/)
+> The volunteering I did was called **WWOOFing**, which stands for [World Wide Opportunities on Organic Farms](https://wwoof.net/). In exchange for help, WOOFers receive food and a place to stay.
 
 I had several reasons for visiting this area:
 

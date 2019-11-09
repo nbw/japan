@@ -99,7 +99,7 @@ This stops creating new habits of misery and craving.
 
 ### But how do I observe something at the unconscious level?
 
-This the big problem. At an intellectual level the idea of simply observing a sensation is quite easy to grasp. But *intellectual understanding doesn't not equate to the abilities of the unconscious.* Your unconscious mind is simply keep doing what it always does: reacting.. reacting.. reacting… reacting..
+This is the big problem. At an intellectual level the idea of simply observing a sensation is quite easy to grasp. But *intellectual understanding doesn't not equate to the abilities of the unconscious.* Your unconscious mind is simply keep doing what it always does: reacting.. reacting.. reacting… reacting..
 
 The answer: you train the unconscious through experience.
 

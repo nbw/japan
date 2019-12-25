@@ -1,7 +1,7 @@
 ---
 title: "It's been a while"
 description: "A long overdue catch up post"
-banner: "img/11/banner.jpg"
+banner: "/img/11/banner.jpg"
 date: 2019-12-23T06:57:10+10:00
 draft: false
 

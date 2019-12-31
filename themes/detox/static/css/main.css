@@ -58,6 +58,8 @@
   margin-bottom: 3em;
 }
 
+.center { text-align: center;}
+
 @media only screen and (max-width: 600px) {
   #site-footer ul {
     margin: 1em;

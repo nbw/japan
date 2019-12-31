@@ -11,7 +11,7 @@ draft: false
 
 
 
-It's been a long time since I've posted a big update. I have excuses, but let's just jump into it instead. 
+It's been a long time since I've posted a big update. I have excuses, but let's just jump into it instead.
 
 ---
 
@@ -64,7 +64,7 @@ I chose my place because of it's traditional aesthetic. It's an old house and th
 This is where the bulk of my time has been spent. I'm enrolled in a full-time Japanese school program for "business Japanese." Admittedly, I've seen huge improvement. As much as possible I've dedicated myself to studying.
 
 ![drawing](/img/11/nathan_drawing.jpg)
-<div style="text-align: center; color: #999"> 
+<div style="text-align: center; color: #999">
 (drawing by Kaho)
 
 </div>
@@ -80,10 +80,10 @@ I've learned a lot. I've made a few good friends (with Koreans and Vietnamese pe
 ![origami](/img/11/origami.jpg)
 
 <p>
-  
+
 </p>
 
-Our class went on an outing to an origami museum. There are 3 Vietnamese students, 2 Koreans, myself, and a Japanese teacher. 
+Our class went on an outing to an origami museum. There are 3 Vietnamese students, 2 Koreans, myself, and a Japanese teacher.
 
 ---
 
@@ -111,9 +111,9 @@ I participated in a 10 day silent mediation retreat. I encourage those who are i
 
 ### Meditation: Smallville Story
 
-There were about 60 participants in the mediation retreat (half female and half male). One of the older Japanese people stood out because he had a bunch of shirts with English phrases. This guy had glasses, grey hair past his shoulders, probably late 50's or mid 60's. 
+There were about 60 participants in the mediation retreat (half female and half male). One of the older Japanese people stood out because he had a bunch of shirts with English phrases. This guy had glasses, grey hair past his shoulders, probably late 50's or mid 60's.
 
-On day 8 he wore a shirt the read **"SMALLVILLE,"** which I immediately recognized as the hometown of the superhero superman, but also <u>the name of the television show my Uncle David was a producer for.</u> 
+On day 8 he wore a shirt the read **"SMALLVILLE,"** which I immediately recognized as the hometown of the superhero superman, but also <u>the name of the television show my Uncle David was a producer for.</u>
 
 ![](https://images-na.ssl-images-amazon.com/images/I/916sul3M38L.jpg)
 
@@ -139,7 +139,8 @@ Of course I couldn't help but say "wow, small world," but then I thought.. oh ri
 
 ### Visitors
 
-A number of people have visited me since I've been here. 
+A number of people have visited me since I've been here.
+
 
 #### My parents
 
@@ -152,17 +153,22 @@ We went to an area called Shirakawa.
 ![](/img/11/dad.jpg)
 ![](/img/11/mom.jpg)![](/img/11/mom_bridge.jpg)
 
-#### My sister and her boyfriend
+.
+
+<h4 class="center">My sister and her boyfriend</h4>
 
 ![](/img/11/eleanor_quinn.jpg)
 ![](/img/11/eleanor_nathan.jpg)
 
-#### Cousin Amy and Bruce!
+.
+
+<h4 class="center">Cousin Amy and Bruce!</h4>
 
 ![](/img/11/amy_bruce.jpg)
 
-#### Sudha and her husband Richard
+.
 
+<h4 class="center">Sudha and her husband Richard</h4>
 ![](/img/11/sudha_richard.jpg)
 
 ---
@@ -177,9 +183,9 @@ My Canadian roommate is much more sociable than I am (she's great) and she hoste
 
 ### I released an app: When To Chat
 
-In my spare time I've been programming. 
+In my spare time I've been programming.
 
-Most recently (since March) I've been working on an app/plugin called **When To Chat which helps people in different time zones find a good time to chat.** 
+Most recently (since March) I've been working on an app/plugin called **When To Chat which helps people in different time zones find a good time to chat.**
 
 ![banner](https://slack.whentochat.co/images/whentochat_banner.jpg)
 
@@ -191,7 +197,7 @@ The app was based on a tool I made (of the same name): [whentochat.co](http://wh
 
 ![anim](https://slack.whentochat.co/images/whentochat_post.gif)
 
-2. Then you'll receive a link to a page that shows what times overlap: 
+2. Then you'll receive a link to a page that shows what times overlap:
 
    ![example](https://slack.whentochat.co/images/whentochat_preview.png)
 
@@ -205,7 +211,7 @@ The app was based on a tool I made (of the same name): [whentochat.co](http://wh
 
 ### Ten Japan: ☕ Cafes and 🍜Ramen
 
-I've still been exploring Tokyo a lot. One of my classmates is really into coffee (like me) so we've visited many places together. 
+I've still been exploring Tokyo a lot. One of my classmates is really into coffee (like me) so we've visited many places together.
 
 I've created a [Google Maps list of Cafes](https://goo.gl/maps/9c6JYvWMXytgiDmY7), about half of which I've visited. [Here's that list](https://goo.gl/maps/9c6JYvWMXytgiDmY7)
 
@@ -219,13 +225,17 @@ I also post about my experiences on [my Instagram here](https://www.instagram.co
 
 ### More photos and things
 
-![](/img/11/dad_min.jpg) My father and my roommate Min
+![](/img/11/dad_min.jpg)<p class="center">My father and my roommate Min</p>
 
-![](/img/11/birthday.jpg) My birthday cake! (Thanks Min and Kaho)
+![](/img/11/birthday.jpg)<p class="center">My birthday cake! (Thanks Min and Kaho)</p>
 
-![](/img/11/mom_takako.jpg) My mother, my aunt, and her niece
+![](/img/11/mom_takako.jpg)<p class="center"> My mother, my aunt, and her niece</p>
 
+![](/img/11/shirakawa.jpg)<p class="center"> Shirakawa</p>
 
+![](/img/11/hajae.jpg) <p class="center">Tonkatsu treat for my birthday</p>
+
+![](/img/11/tonkatsu.jpg) <p class="center">Tonkatsu treat for my birthday</p>
 
 ---
 
@@ -233,3 +243,5 @@ I also post about my experiences on [my Instagram here](https://www.instagram.co
 
 The next steps for me are to finish up with school and find a job. I'm already in contact with a number of companies and recruiters so we'll see what happens. Fingers crossed! 🤞
 
+
+![](/img/11/math.jpg)

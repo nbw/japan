@@ -229,8 +229,6 @@ I also post about my experiences on [my Instagram here](https://www.instagram.co
 
 ![](/img/11/birthday.jpg)<p class="center">My birthday cake! (Thanks Min and Kaho)</p>
 
-![](/img/11/mom_takako.jpg)<p class="center"> My mother, my aunt, and her niece</p>
-
 ![](/img/11/shirakawa.jpg)<p class="center"> Shirakawa</p>
 
 ![](/img/11/hajae.jpg) <p class="center">Tonkatsu treat for my birthday</p>

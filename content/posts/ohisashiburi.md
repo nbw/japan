@@ -149,9 +149,7 @@ We went to an area called Shirakawa.
 ![](/img/11/dad_mom_3.jpg)
 ![](/img/11/shirakawa_view.jpg)
 ![](/img/11/shirakawa_food.jpg)
-![](/img/11/dad_mom_2.jpg)
 ![](/img/11/dad.jpg)
-![](/img/11/mom.jpg)![](/img/11/mom_bridge.jpg)
 
 .
 

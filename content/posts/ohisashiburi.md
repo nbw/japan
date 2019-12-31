@@ -229,7 +229,7 @@ I also post about my experiences on [my Instagram here](https://www.instagram.co
 
 ![](/img/11/shirakawa.jpg)<p class="center"> Shirakawa</p>
 
-![](/img/11/hajae.jpg) <p class="center">Tonkatsu treat for my birthday</p>
+![](/img/11/hajae.jpg) <p class="center">Coffee with Hajae</p>
 
 ![](/img/11/tonkatsu.jpg) <p class="center">Tonkatsu treat for my birthday</p>
 

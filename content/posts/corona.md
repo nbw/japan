@@ -61,13 +61,13 @@ All public school has been cancelled for all of March. This includes elementary 
 
 Many language schools have been cancelled too. 
 
-*My school was not cancelled*, however class was changed to start at 10am instead of 9pm. We open windows at all break times. We are asked to use rubbing alcohol whenever arriving at the school or going to the washroom.
+*My school was not cancelled*, however class was changed to start at 10am instead of 9am. We open windows at all break times. We are asked to use rubbing alcohol whenever arriving at the school or going to the washroom.
 
 ![alc](https://japan.nathanwillson.com/img/12/alcohol.jpg)
 
 #### Hand dryers are banned
 
-I'm not quite sure as the logic yet, but all hand dryers have signs on them saying they're banned until further notice. 
+I'm not quite sure of the logic, but all hand dryers have signs on them saying they're banned until further notice. 
 
 ![dryer](https://japan.nathanwillson.com/img/12/hand_dryer.jpg)
 
@@ -93,7 +93,7 @@ The tourist industry has been on of the hardest hit. Bus tour companies have hal
 
 
 
-#### Its affecting my job opportunities
+#### It's affecting my job opportunities
 
 All of my interviews are now over video chat. 
 
